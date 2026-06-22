@@ -1,10 +1,10 @@
 # Swiggy Sales Analysis Dashboard | Advanced Excel Project
 
-# Project Description
+## Project Description
 
 This project presents an interactive Excel dashboard built using a real-world Swiggy dataset to analyze sales performance, customer ordering patterns, restaurant performance, and business trends. The dashboard enables stakeholders to monitor key KPIs, identify top-performing restaurants and cuisines, and uncover actionable insights for data-driven decision-making.
 
-# Tech Stack
+## Tech Stack
 - Microsoft Excel
 - Power Query
 - Power Pivot
@@ -14,15 +14,15 @@ This project presents an interactive Excel dashboard built using a real-world Sw
 - Data Cleaning & Transformation
 - Dashboard Design
 
-# Data Source
+## Data Source
 - Real-world Swiggy sales dataset
 - Dataset contains restaurant information, order details, ratings, cuisines, pricing, and sales-related metrics.
 - Data was cleaned, transformed, and modeled using Excel tools before visualization.
 
-# Business Problem
+## Business Problem
 Food delivery platforms generate large volumes of transactional data. The challenge is to transform raw data into meaningful insights that help understand customer preferences, restaurant performance, and sales trends.
 
-# Dashboard KPIs
+## Dashboard KPIs
 - Total Sales
 - Total Orders
 - Average Order Value
@@ -30,7 +30,7 @@ Food delivery platforms generate large volumes of transactional data. The challe
 - Average Ratings
 - Top Performing Categories
 
-# Key Analysis Performed
+## Key Analysis Performed
 - Sales trend analysis
 - Restaurant performance comparison
 - Cuisine-wise sales analysis
@@ -39,7 +39,7 @@ Food delivery platforms generate large volumes of transactional data. The challe
 - Price range analysis
 - Top and bottom performers identification
 
-# Business Insights
+## Business Insights
 
 - Identified top-performing restaurants and cuisines.
 - Analyzed customer purchasing behavior.
